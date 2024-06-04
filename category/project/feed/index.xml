@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>企划 &#8211; Yuanzi</title>
+	<atom:link href="https://weng0147.github.io/Yuanzi/category/project/feed/" rel="self" type="application/rss+xml" />
+	<link>https://weng0147.github.io/Yuanzi</link>
+	<description>See the world with different perspectives</description>
+	<lastBuildDate>Tue, 07 May 2024 01:58:53 +0000</lastBuildDate>
+	<language>zh-CN</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.3</generator>
+	<item>
+		<title>黄蝴蝶飞舞之日</title>
+		<link>https://weng0147.github.io/Yuanzi/2024/05/07/%e9%bb%84%e8%9d%b4%e8%9d%b6%e9%a3%9e%e8%88%9e%e4%b9%8b%e6%97%a5/</link>
+					<comments>https://weng0147.github.io/Yuanzi/2024/05/07/%e9%bb%84%e8%9d%b4%e8%9d%b6%e9%a3%9e%e8%88%9e%e4%b9%8b%e6%97%a5/#respond</comments>
+		
+		<dc:creator><![CDATA[W]]></dc:creator>
+		<pubDate>Tue, 07 May 2024 01:57:53 +0000</pubDate>
+				<category><![CDATA[企划]]></category>
+		<guid isPermaLink="false">https://weng0147.github.io/Yuanzi/?p=103</guid>
+
+					<description><![CDATA[原创幻想故事《黄蝴蝶飞舞之日》的相关设计]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-image size-full"><img fetchpriority="high" decoding="async" width="3508" height="4961" src="https://weng0147.github.io/Yuanzi/wp-content/uploads/2024/05/封面.png" alt="" class="wp-image-105"/></figure>
+
+
+
+<p>《黄蝴蝶飞舞之日》是我基于现实中墨西哥传统节日亡灵节创作的幻想故事。现已作为COC风格的TRPG游戏模组在平台[魔都]和[骰声回响]发布。</p>
+
+
+
+<p>这里展示了我对这部作品电影海报化和相关周边产品设计的设想。</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1275" height="1650" src="https://weng0147.github.io/Yuanzi/wp-content/uploads/2024/05/Final-assignment_page-0002.jpg" alt="" class="wp-image-106"/></figure>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1275" height="1650" src="https://weng0147.github.io/Yuanzi/wp-content/uploads/2024/05/Final-assignment_page-0003.jpg" alt="" class="wp-image-107"/></figure>
+
+
+
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1275" height="1650" src="https://weng0147.github.io/Yuanzi/wp-content/uploads/2024/05/Final-assignment_page-0004.jpg" alt="" class="wp-image-108"/></figure>
+
+
+
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1275" height="1650" src="https://weng0147.github.io/Yuanzi/wp-content/uploads/2024/05/Final-assignment_page-0005.jpg" alt="" class="wp-image-109"/></figure>
+
+
+
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1275" height="1650" src="https://weng0147.github.io/Yuanzi/wp-content/uploads/2024/05/Final-assignment_page-0006.jpg" alt="" class="wp-image-110"/></figure>
+
+
+
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1275" height="1650" src="https://weng0147.github.io/Yuanzi/wp-content/uploads/2024/05/Final-assignment_page-0007.jpg" alt="" class="wp-image-111"/></figure>
+
+
+
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1275" height="1650" src="https://weng0147.github.io/Yuanzi/wp-content/uploads/2024/05/Final-assignment_page-0008.jpg" alt="" class="wp-image-112"/></figure>
+
+
+
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1275" height="1650" src="https://weng0147.github.io/Yuanzi/wp-content/uploads/2024/05/Final-assignment_page-0009.jpg" alt="" class="wp-image-113"/></figure>
+
+
+
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1275" height="1650" src="https://weng0147.github.io/Yuanzi/wp-content/uploads/2024/05/Final-assignment_page-0010.jpg" alt="" class="wp-image-114"/></figure>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://weng0147.github.io/Yuanzi/2024/05/07/%e9%bb%84%e8%9d%b4%e8%9d%b6%e9%a3%9e%e8%88%9e%e4%b9%8b%e6%97%a5/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
